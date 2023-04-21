@@ -19,4 +19,4 @@
   
   </div>
   
-  ![Linguagens que mais uso](https://github-readme-stats.vercel.app/api/top-langs/?username=Alcadieno&theme=blue-green)
+  ![Linguagens que mais uso](https://github-readme-stats.vercel.app/api/top-langs/?username=Alcadieno&theme=highcontrast)
