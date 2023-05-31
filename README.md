@@ -5,7 +5,7 @@
 [![Battle.net](https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)](Aetas#21268)
 [![Linkein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-henrique-santos-moreira-silva-609463b8/)
 
-![Fernando GitHub ](https://github-readme-stats.vercel.app/api?username=Alcadieno&show_icons=true&theme=highcontrast)
+![Fernando GitHub ](https://github-readme-stats.vercel.app/api?username=Alcadieno&show_icons=true&theme=chartreuse-dark)
 
 ## Tecnologias que eu uso !🗂️
 
@@ -19,4 +19,4 @@
   
   </div>
   
-  ![Linguagens que mais uso](https://github-readme-stats.vercel.app/api/top-langs/?username=Alcadieno&theme=highcontrast)
+  ![Linguagens que mais uso](https://github-readme-stats.vercel.app/api/top-langs/?username=Alcadieno&theme=chartreuse-dark)
