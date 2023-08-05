@@ -22,4 +22,4 @@
   
   </div>
   
-  ![Linguagens que mais uso](https://github-readme-stats.vercel.app/api/top-langs/?username=Alcadieno&theme=chartreuse-dark)
+  ![Linguagens que mais uso](https://github-readme-stats.vercel.app/api/top-langs/?username=Alcadieno&theme=chartreuse-dark
